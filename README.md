@@ -1,6 +1,9 @@
 # compile the workspace
 catkin_make
 
+# source
+source ./devel/setup.bash
+
 # launch the RViZ and Gazebo
 roslaunch panda_description description.launch
 
