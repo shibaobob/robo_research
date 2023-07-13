@@ -1,3 +1,9 @@
+# Ubuntu version
+18.04
+
+# ROS
+Melodic
+
 # compile the workspace
 catkin_make
 
